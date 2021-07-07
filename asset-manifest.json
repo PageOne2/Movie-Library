@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Movie-Library/static/css/main.3c89579b.chunk.css",
-    "main.js": "/Movie-Library/static/js/main.93cfe3ec.chunk.js",
-    "main.js.map": "/Movie-Library/static/js/main.93cfe3ec.chunk.js.map",
+    "main.js": "/Movie-Library/static/js/main.136f04dc.chunk.js",
+    "main.js.map": "/Movie-Library/static/js/main.136f04dc.chunk.js.map",
     "runtime-main.js": "/Movie-Library/static/js/runtime-main.cfefdb8c.js",
     "runtime-main.js.map": "/Movie-Library/static/js/runtime-main.cfefdb8c.js.map",
     "static/js/2.b0516ff1.chunk.js": "/Movie-Library/static/js/2.b0516ff1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cfefdb8c.js",
     "static/js/2.b0516ff1.chunk.js",
     "static/css/main.3c89579b.chunk.css",
-    "static/js/main.93cfe3ec.chunk.js"
+    "static/js/main.136f04dc.chunk.js"
   ]
 }
