@@ -116,7 +116,7 @@ function App() {
         <Navbar click={handleClick} />
 
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/Movie-Library">
             <Content str={undefined} id={0} title="Popular" />
           </Route>
           <Route path="/results">
